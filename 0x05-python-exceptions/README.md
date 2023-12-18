@@ -1,0 +1,2 @@
+python errors and exceptions 
+
